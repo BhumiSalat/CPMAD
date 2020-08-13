@@ -1,0 +1,7 @@
+{
+  "name": "firsttabApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
